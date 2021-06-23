@@ -1,2 +1,2 @@
 # Documenation
-This folder contains the TFM report and suplementary data
+This folder contains the TFG report and suplementary data
