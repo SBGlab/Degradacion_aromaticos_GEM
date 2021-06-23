@@ -1,3 +1,4 @@
+Reaction N carbons N nitrogen Metabolite Solution
 EX_co(e)	1	0	co[e]	0,0
 EX_co2(e)	1	0	co2[e]	0,0
 EX_CTC(e)	1	0	ctc[e]	0,0
