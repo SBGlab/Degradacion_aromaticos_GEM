@@ -1,6 +1,3 @@
-Scaling...
- A: min|aij| =  1.000e+00  max|aij| =  1.000e+00  ratio =  1.000e+00
-Problem data seem to be well scaled
 Reaction: EX_12dgr160(e)	N carbons: 35	N nitrogen: 0	Metabolite: 12dgr160[e]	Solution: 0.20007370122342147
 Reaction: EX_12dgr180(e)	N carbons: 39	N nitrogen: 0	Metabolite: 12dgr180[e]	Solution: 0.1995036906786262
 Reaction: EX_13dampp(e)	N carbons: 3	N nitrogen: 2	Metabolite: 13dampp[e]	Solution: 0.1296802998052907
